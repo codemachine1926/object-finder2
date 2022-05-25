@@ -1,0 +1,18 @@
+.heading{
+    background-color: black;
+    color: aliceblue;
+    border: solid 3px cyan;
+    margin-top: 0px;
+}
+
+body{
+    background-position: center;
+    background-size: cover;
+}
+.note{
+    color: red;
+    background-color: aquamarine;
+}
+canvas{
+    border: solid 3px black;
+}
